@@ -1,5 +1,6 @@
 import * as THREE from 'three';
 import { GLTFLoader } from 'three/examples/jsm/loaders/GLTFLoader';
+import "./style.css"
 import { OrbitControls } from 'three/examples/jsm/controls/OrbitControls'; // Импорт OrbitControls
 
 const canvas = document.querySelector('.canvas');
